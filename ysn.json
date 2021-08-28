@@ -1,5 +1,5 @@
 {
-"update_isforce":true,  
+"update_isforce":false,  
 "update_isapk":true,  
 "update_title":"Update new version",  
 "update_content":"You cant update if you are using modded version. Please use official version on our homepage(filmplus.app) to support developer.
@@ -17,7 +17,7 @@
 "update_link_android4":"https://dl.dropboxusercontent.com/s/hfyir7a7dgyyfiy/1.2.4f.apk",
 "pkg_uninstall":"", 
 "pkg_uninstall_content":"Please uninstall old version",
-"enable_install_player":true,
+"enable_install_player":false,
 "title_player":"Polygon Video Player";
 "description_player":"Best player to work with Filmplus. Less ads and better streaming!",
 "link_download_player":"https://github.com/samtvapk/abcd/releases/download/1.0.2r/1.0.2r.apk",
