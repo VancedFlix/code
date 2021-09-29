@@ -1,9 +1,9 @@
-{"error":0,"message":{"update_version_code":"30",
-"update_link_download":"https://github.com/VancedFlix/Apps/raw/main/10.0.0s.apk",
-"update_changelog":"Version 10.0.0s<\/font>
+{"error":0,"message":{"update_version_code":"33",
+"update_link_download":"https://github.com/VancedFlix/Apps/raw/main/10.1.0V.apk",
+"update_changelog":"Version 10.1.0V<\/font>
 Fix<\/font><\/br>
 - Add Miradetodo.<\/br>
-- Fix bugs.<\/br>","update_isforce":"false",
+- Fix bugs.<\/br>","update_isforce":"true",
 "openload_key":"DtsBlkVFQx",
 "is_banner_auto":"0","enable_ads_u":"1",
 "gg_analytics_key":"UA-101239636-9",
